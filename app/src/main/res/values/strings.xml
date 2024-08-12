@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ui Login Screen</string>
+    <string name="app_logo">App Logo</string>
+    <string name="the_joseph">The Joseph</string>
+    <string name="the_househunt">The Househunt</string>
+    <string name="find_house">Find Your House</string>
+    <string name="login">Login</string>
+</resources>
